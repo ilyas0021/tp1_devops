@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 3C34-4431
+
+ Directory of C:\Users\ilyas\app1
+
+05/03/2024  15:35    <DIR>          .
+05/03/2024  15:33    <DIR>          ..
+05/03/2024  15:35                 0 fichier1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  400ÿ397ÿ320ÿ192 bytes free
